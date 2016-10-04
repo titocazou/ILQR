@@ -1,0 +1,2 @@
+# ILQR
+Python ILQR library
